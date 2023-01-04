@@ -1,0 +1,89 @@
+body {
+    background-color: #1C6758;
+    font-family: papyrus;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: #EEF2E6;
+}
+
+.category {
+    background-color: #3D8361;
+    box-shadow: 10px 15px #888888;
+    width: 300px;
+    height: 850px;
+    border: 15px solid #D6CDA4;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    border-radius: 60px;
+}
+
+.category2 {
+    background-color: #3D8361;
+    box-shadow: 10px 15px #888888;
+    width: 300px;
+    height: 350px;
+    border: 15px solid #D6CDA4;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+    border-radius: 60px;
+}
+
+.detail_title {
+    background-color: #3D8361;
+    box-shadow: 5px 5px #888888;
+    border: 10px solid #D6CDA4;
+    margin: 15px;
+    border-radius: 60px;
+}
+
+.detail {
+    background-color: #3D8361;
+    box-shadow: 5px 5px #888888;
+    border: 5px solid #D6CDA4;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 25px;
+    border-radius: 60px;
+}
+
+.detail_image {
+    width: 500px;
+    box-shadow: 5px 5px #888888;
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+.category2_images {
+    width: 300px;
+}
+
+.food_description {
+    text-align: justify;
+    color: #EEF2E6;
+}
+
+.food_name {
+    text-align: center;
+    color: #EEF2E6;
+}
+
+.table_left {
+    color: #EEF2E6;
+    text-align: right;
+}
+
+.table_right {
+    color: #EEF2E6;
+    text-align: left;
+}
